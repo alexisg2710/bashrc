@@ -1,0 +1,1 @@
+/home/epita/afs/.confs/bashrc
